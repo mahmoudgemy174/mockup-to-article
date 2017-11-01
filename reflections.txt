@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1- i have learn how to make line over word with tage <s>
+and make style sheet inside Html Code.
+2 - by search every thing was very easy.
+3 - control of width and position of page was rather difficult
+4 - any thing i dont know i opened google and search for it 
